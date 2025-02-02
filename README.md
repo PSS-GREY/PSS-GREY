@@ -1,8 +1,8 @@
 - 👋 Hi, I’m PS Sudharsan 
-- 👀 I’m interested in Programming and Hardware
+- 👀 I’m interested in Programming and I'm a coding enthusiast.
 - 🌱 I’m currently pursuing BTech in Electronics and Communication Engineering in NSS COLLEGE OF ENGINEERING PALAKKAD
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me :Through GitHub 
+- 📫 How to reach me :Email: pssudharsansreeram@gmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
